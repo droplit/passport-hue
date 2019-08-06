@@ -1,6 +1,6 @@
 {
   "name": "passport-hue",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Provides a Hue authentication strategy for Passport",
   "main": "./lib/passport-hue",
   "repository": {
