@@ -1,11 +1,11 @@
 {
   "name": "passport-hue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides a Hue authentication strategy for Passport",
   "main": "./lib/passport-hue",
   "repository": {
     "type": "git",
-    "url": "git@github.com/ferrantejake/passport-hue.git"
+    "url": "git@github.com/droplit/passport-hue.git"
   },
   "keywords": [
     "passport",
@@ -15,6 +15,7 @@
   "contributors": [
     "Jake Ferrante <jake@droplit.io>"
   ],
+  "license": "Apache-2.0",
   "licenses": [
     {
       "type": "Apache-2.0",
@@ -22,9 +23,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/ferrantejake/passport-hue/issues"
+    "url": "https://github.com/droplit/passport-hue/issues"
   },
-  "homepage": "https://github.com/ferrantejake/passport-hue#readme",
+  "homepage": "https://github.com/droplit/passport-hue#readme",
   "dependencies": {
     "@types/passport-oauth2": "^1.4.8",
     "passport-oauth2": "1.x.x",
