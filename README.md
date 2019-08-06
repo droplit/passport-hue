@@ -2,7 +2,7 @@
 
 Strategy to authenticate with Hue via OAuth2 in Passport
 
-For more details, read the Ecobee developer docs at https://developers.meethue.com/develop/hue-api/remote-authentication/
+For more details, read the Hue developer docs at https://developers.meethue.com/develop/hue-api/remote-authentication/
 
 ## Installation
 
